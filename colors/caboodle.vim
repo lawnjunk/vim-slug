@@ -460,11 +460,11 @@ hi! link diffAdded Special
 "
 "
 
+" caboodle
 
 hi Normal ctermbg=23 ctermfg=111
-hi Comment ctermfg=244
+hi Comment ctermfg=247
 hi CursorLine cterm=underline ctermbg=24
 hi CursorLineNr cterm=bold ctermbg=0
 hi LineNr ctermfg=255
 hi StatusLine cterm=bold,reverse ctermfg=255 ctermbg=233
-
